@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="topbar">#673AB7</color>
+    <color name="dialog_neg">#f00</color>
+    <color name="dialog_pos">#4CAF50</color>
+</resources>

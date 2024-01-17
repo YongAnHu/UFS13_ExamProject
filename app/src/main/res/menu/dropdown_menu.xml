@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drop_add_table"
+        android:title="@string/aggiungi_un_tavolo"
+        android:tooltipText="@string/aggiungi_un_tavolo"/>
+
+    <item
+        android:id="@+id/drop_remove_table"
+        android:title="@string/rimuovi_un_tavolo"
+        android:tooltipText="@string/rimuovi_un_tavolo"/>
+
+<!--    <item-->
+<!--        android:id="@+id/drop_add_item"-->
+<!--        android:title="@string/aggiungi_un_oggetto"-->
+<!--        android:tooltipText="@string/aggiungi_un_oggetto" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/drop_remove_item"-->
+<!--        android:title="@string/rimuovi_un_oggetto"-->
+<!--        android:tooltipText="@string/rimuovi_un_oggetto"/>-->
+
+</menu>

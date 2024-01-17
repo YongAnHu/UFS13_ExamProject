@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content">
+
+	<EditText
+		android:id="@+id/dialog_menu_name"
+		android:inputType="text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4dp"
+		android:layout_marginLeft="4dp"
+		android:layout_marginRight="4dp"
+		android:layout_marginBottom="16dp"
+		android:fontFamily="sans-serif"
+		android:hint="Nome Oggetto"/>
+
+	<EditText
+		android:id="@+id/dialog_menu_description"
+		android:inputType="text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4dp"
+		android:layout_marginLeft="4dp"
+		android:layout_marginRight="4dp"
+		android:layout_marginBottom="16dp"
+		android:fontFamily="sans-serif"
+		android:hint="Descrizione"/>
+
+	<EditText
+		android:id="@+id/dialog_menu_price"
+		android:inputType="text|numberDecimal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4dp"
+		android:layout_marginLeft="4dp"
+		android:layout_marginRight="4dp"
+		android:layout_marginBottom="16dp"
+		android:fontFamily="sans-serif"
+		android:hint="Prezzo"/>
+
+	<TextView
+		android:id="@+id/dialog_menu_text_category"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4dp"
+		android:layout_marginLeft="4dp"
+		android:layout_marginRight="4dp"
+		android:textSize="18sp"
+		android:fontFamily="sans-serif"
+		android:text="Categoria"/>
+	<Spinner
+		android:id="@+id/dialog_menu_category"
+		android:spinnerMode="dropdown"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4dp"
+		android:layout_marginLeft="4dp"
+		android:layout_marginRight="4dp"
+		android:layout_marginBottom="16dp"
+		android:fontFamily="sans-serif"/>
+
+</LinearLayout>

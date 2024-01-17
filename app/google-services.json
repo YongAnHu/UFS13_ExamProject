@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741444752506",
+    "project_id": "ufs13-palestra-db",
+    "storage_bucket": "ufs13-palestra-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741444752506:android:a4994d75af66205d3817c3",
+        "android_client_info": {
+          "package_name": "it.hu.ufs13_examproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mE_8i4NCxjRu2XhRLjUeu-LoA5nHTaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741444752506:android:21ed06c4f2426bcd3817c3",
+        "android_client_info": {
+          "package_name": "it.hu.ufs13_palestra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mE_8i4NCxjRu2XhRLjUeu-LoA5nHTaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

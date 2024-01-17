@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UFS13_ExamProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="daily">daily</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="secondi_piatti">Secondi Piatti</string>
+    <string name="primi_piatti">Primi Piatti</string>
+    <string name="contorni">Contorni</string>
+    <string name="bevande">Bevande</string>
+    <string name="desserts">Desserts</string>
+    <string name="aggiungi_un_oggetto">Aggiungi un OGGETTO</string>
+    <string name="rimuovi_un_oggetto">Rimuovi un OGGETTO</string>
+    <string name="rimuovi_un_tavolo">Rimuovi un TAVOLO</string>
+    <string name="aggiungi_un_tavolo">Aggiungi un TAVOLO</string>
+    <string name="table">table</string>
+    <string name="order">order</string>
+    <string name="ordini">Ordini</string>
+</resources>
